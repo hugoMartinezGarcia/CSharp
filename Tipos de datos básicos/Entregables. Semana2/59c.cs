@@ -38,9 +38,5 @@ class Ejercicio_59c
             default: Console.WriteLine("La opción escogida no es correcta");
                         break;
         }
-        
-        
-        
-        
     }
 }
